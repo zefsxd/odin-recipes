@@ -1,1 +1,1 @@
-# odin-recipes
+This project will demonstrate my ability to create a basic website containing a couple of juicy recipes
