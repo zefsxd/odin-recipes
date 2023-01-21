@@ -4,3 +4,23 @@
     font-weight: bold;
     text-align: center;
 }
+
+#lip-gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+}
+
+.link {
+    font-weight: bold;
+}
+
+#bolognese {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
